@@ -1,7 +1,6 @@
-crewai==0.28.5
-crewai-tools==0.1.8
-serpapi==0.4.4
-python-dotenv==1.0.1
-openai==1.33.0
-tqdm==4.66.4
-rich==13.7.1
+crewai            0.28.5
+crewai-tools      0.1.8
+openai            1.33.0
+python-dotenv     1.0.1
+rich              14.1.0
+serpapi           0.4.4
